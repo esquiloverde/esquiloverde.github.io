@@ -7,13 +7,13 @@ favicon: 'favicon.ico'
 baseurl: ""
 google_analytics: 'G-HG2GKXVFVD'
 disqus: 'esquiloverde'
-mailchimp-list: 'https://esquiloverde.us21.list-manage.com/subscribe/post?u=938b225ffbc7858c3549df8f3&amp;id=15bf8a529e&amp;f_id=0005a1e1f0'
+mailchimp-list: "https://esquiloverde.us21.list-manage.com/subscribe/post?u=938b225ffbc7858c3549df8f3&amp;id=15bf8a529e&amp;f_id=0005a1e1f0"
 include: ["_pages"]
 permalink: /:title/
 
 # Authors
 authors:
-  sal:F
+  sal:
     name: Sal
     display_name: Sal
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
