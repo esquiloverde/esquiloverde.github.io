@@ -10,6 +10,7 @@ disqus: 'esquiloverde'
 mailchimp-list: "https://esquiloverde.us21.list-manage.com/subscribe/post?u=938b225ffbc7858c3549df8f3&amp;id=15bf8a529e&amp;f_id=0005a1e1f0"
 include: ["_pages"]
 permalink: /:title/
+url: "https://www.esquiloverde.com.br"
 
 # Authors
 authors:
