@@ -3,17 +3,17 @@ name: "Esquilo Verde"
 title: "Esquilo Verde"
 description: "Aprendendo a criar jogos do zero"
 logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+favicon: 'favicon.ico'
 baseurl: ""
-google_analytics: 'UA-46278016-1'
-disqus: 'demowebsite'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+google_analytics: 'G-HG2GKXVFVD'
+disqus: 'esquiloverde'
+mailchimp-list: 'https://esquiloverde.us21.list-manage.com/subscribe/post?u=938b225ffbc7858c3549df8f3&amp;id=15bf8a529e&amp;f_id=0005a1e1f0'
 include: ["_pages"]
 permalink: /:title/
 
 # Authors
 authors:
-  sal:
+  sal:F
     name: Sal
     display_name: Sal
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
